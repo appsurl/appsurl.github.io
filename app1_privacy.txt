@@ -1,0 +1,59 @@
+Privacy Policy
+
+This Privacy Policy is effective as of July 1 , 2021.
+
+A. INTRODUCTION
+
+Bitcoin Network respects the intellectual property rights of others, and we expect you to do the same.
+
+The developer of the App and its affiliates and subsidiaries (collectively, “we”, “us” or “our”) provide this privacy policy (“Privacy Policy”) applies to your access and use of the mobile applications named Bitcoin Network (“App”) to help you understand what information we collect, how we use such information, and the recipients with whom we share such information. The App and any data, products, services and associated materials or media supplied with the App are collectively referred to as the “Services”.
+
+This Privacy Policy is incorporated into and made a part of the End. User License Agreement, which governs your use of the Services and limits our liability to you. By using our Services, you agree that we may treat your information in the ways we describe in this Privacy Policy. If you do not agree with any term of this Privacy Policy or the End User License Agreement, DO NOT USE OUR SERVICES.
+
+B. WHAT KIND OF YOUR PERSONAL INFORMATION WILL BE COLLECTED
+
+Personal Information Collected by Us
+
+We collect information about the nick name.
+
+We collect email information for login and authentication purpose.
+
+We collect information about the country inwhich you are living for withdrawal of your rewards.
+
+    Nickname
+    Email
+    Country
+
+C. HOW WE USE YOUR PERSONAL INFORMATION
+
+We may use information about you for various purposes, including to:
+
+    Provide, maintain and improve the Services;
+    Send you related information, including confirmations, updates, technical notices, security alerts and support and administrative messages;
+    Provide customer service;
+    Respond to and communicate with you about the Services and other information may be of interest to you;
+    Monitor and analyze trends, usage and activities in connection with the Services;
+    Protect you from fraudulent transactions and other illegal activities and protect our and others’ rights and property;
+    Personalize and improve your experience with the Services and provide advertisements, content and features that match your profile or interests;
+
+D. HOW WE SHARE YOUR PERSONAL INFORMATION
+
+Requirements of Law
+
+    We may share your information in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process.
+    With necessary third parties
+    We may share your information with vendors, partners and other service providers who need access to such information to carry out work on our behalf, provide products or services to us or to you or help us market or advertise to you (including co-branded marketing and advertising).
+    When you participate in the interactive areas of the Services or interact with us on third party social media sites, certain information that you provide may be displayed publicly, such as your name, photos and other information you choose to provide.
+    We also provide information and content to research partners and academics to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health, and well-being.
+
+E. HOW WE PROTECT YOUR PERSONAL INFORMATION
+
+We are committed to protect your personal information. We implement and maintain reasonable security measures intended to protect against unauthorized use, disclosure, alteration or destruction of the information we collect and maintain. However, please note that, despite our efforts, no data security measures, no method of transmission over the Internet, and no means of electronic or physical storage, is absolutely secure. As such, you acknowledge and accept that we cannot guarantee the absolute security of your information transmitted to, through, or on the Services or via the Internet and that, any such transmission is at your own risk.
+
+F. HOW WE CHANGE THIS PRIVACY POLICY
+
+We may occasionally make changes to this Privacy Policy. You shall regularly check the “Effective Date” included at the beginning of the document to find out if the Privacy Policy has changed. If we make a material change to the Policy, you will be provided with appropriate notice in accordance with legal requirements. By continuing to use the Services after changes have been posted, you are confirming that you have read, understood and consented to the latest version of this Privacy Policy.
+
+G. HOW YOU CONTACT US
+
+Thank you for reading our Privacy Policy. If you have any questions or opinions regarding this Privacy Policy, you may contact us at:support@requests.cyou
